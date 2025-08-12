@@ -1,20 +1,25 @@
+
 👻 Welcome to Ghost_Cyber's Cloud Security Lab
 
-Hi, I'm Hilary—aka `ghost_cyber`—an aspiring Cloud Security Engineer who is passionate about building and securing systems in the cloud. My focus areas include:
+Hi, I'm Hilary — aka ghost_cyber — an aspiring Cloud Security Engineer  still in training. My goal is to design, build, and secure modern cloud environments while continuously learning and applying best practices in security.
+🔍 Focus Areas (Learning & Building)
 
-- 🔐 Infrastructure as Code: Terraform, Bicep
-- ☁️ Cloud Security: AWS & Azure
-- 🐳 Container Security: Kubernetes & container hardening
-- 🧠 Threat Detection & Response: Incident detection, analysis, and response
+   🔐 Infrastructure as Code – Terraform, Bicep
 
+   ☁️ Cloud Security – AWS & Azure fundamentals & best practices
+    🐳 Container Security – Kubernetes, Docker, and container hardening
 
+   🧠 Threat Detection & Response – Understanding incident detection, analysis, and mitigation
 
- 🚀 Current Projects
+🚀 Upcoming Projects
 
-- Secure AWS Web App Deployment: Automating and hardening cloud deployments
-- Cloud Attack Simulation: Hands-on testing with CloudGoat
-- DevSecOps Pipeline: Integrating security into CI/CD workflows
-- Kubernetes Cluster Security: Best practices and real-world hardening
+   Secure AWS Web App Deployment – Automating and securing cloud resources
+
+   Cloud Attack Simulation – Practicing hands-on attack & defense with CloudGoat and similar tools
+
+   DevSecOps Pipeline – Integrating security into CI/CD workflows from day one
+
+   Kubernetes Cluster Hardening – Learning & applying real-world security configurations
 
 
 
